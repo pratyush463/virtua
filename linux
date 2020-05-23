@@ -1,4 +1,4 @@
 sudo apt install ./chrome-remote-desktop_current_amd.deb
 
-# how to get write access of folder ('/usr' or '/etc') :
+#how to get write access of folder ('/usr' or '/etc') :
 sudo chown -R 'manibhushan' /usr/local
